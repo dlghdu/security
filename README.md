@@ -7,24 +7,26 @@
 
 #### 역할에 따른 콘텐츠 차이
 ROLE_USER
-![image](https://github.com/user-attachments/assets/42102b29-d80c-4289-a157-b4306a3f2cfa)
 메인화면
-![image](https://github.com/user-attachments/assets/81e37b9c-be6a-479e-9b26-777efd44f9b8)
+![image](https://github.com/user-attachments/assets/42102b29-d80c-4289-a157-b4306a3f2cfa)
+
 
 ROLE_USER가 작성한 글에는 상세한 내용을 볼 수 있다.
+![image](https://github.com/user-attachments/assets/81e37b9c-be6a-479e-9b26-777efd44f9b8)
 
-![image](https://github.com/user-attachments/assets/bced2ed8-fd50-41de-8a30-4260a12f5c37)
 
 본인이 작성하지 않은 글에는 접근제한이 걸린다.
+![image](https://github.com/user-attachments/assets/bced2ed8-fd50-41de-8a30-4260a12f5c37)
 
 
 ROLE_ADMIN
-![image](https://github.com/user-attachments/assets/54d4abf5-5ad1-4403-b4b2-6b682b541395)
 메인화면
-![image](https://github.com/user-attachments/assets/d76739a8-647d-4669-98fd-b38ed50737ac)
+![image](https://github.com/user-attachments/assets/54d4abf5-5ad1-4403-b4b2-6b682b541395)
+
 
 ROLE_ADMIN도 ROLE_USER처럼 작성한 글에는 상세한 내용을 볼 수 있다.
+![image](https://github.com/user-attachments/assets/d76739a8-647d-4669-98fd-b38ed50737ac)
 
-![image](https://github.com/user-attachments/assets/0e1fbb96-5464-4cf4-9629-bb54d1498640)
 
 ROLE_USER와는 다르게 접근은 허용하나 수정 및 삭제가 불가능하다.
+![image](https://github.com/user-attachments/assets/0e1fbb96-5464-4cf4-9629-bb54d1498640)
